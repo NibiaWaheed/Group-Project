@@ -1,2 +1,3 @@
 # Group-Project
-Bonjour!
+
+Create new pull requests and add them within the group project section! :)
